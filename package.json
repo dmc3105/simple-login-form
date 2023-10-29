@@ -1,0 +1,17 @@
+{
+  "name": "gulp-sass-template2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Говоров А. В. <algovor04@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.29.3",
+    "gulp": "^4.0.2",
+    "gulp-clean": "^0.4.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^5.1.0",
+    "gulp-uglify-es": "^3.0.0",
+    "require-dir": "^1.2.0",
+    "sass": "^1.69.4"
+  }
+}
